@@ -1,0 +1,16 @@
+body {
+  align: center;
+  background-color: beige;
+  text-align: center
+}
+
+img {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+ul {
+  display: inline-block;
+  text-align: left;
+}
